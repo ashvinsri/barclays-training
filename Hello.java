@@ -8,4 +8,7 @@ public void hi()
 {
 
 }
+public void login()
+{
+  //Login code here
 }
