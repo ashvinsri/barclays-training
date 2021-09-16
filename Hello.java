@@ -7,6 +7,7 @@ class Hello{
 public void hi()
 {
     System.out.println("Ashvin");
+    System.out.println("Supreet");
 }
 public void login()
 {
